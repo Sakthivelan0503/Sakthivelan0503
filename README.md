@@ -159,15 +159,6 @@ Hello! I'm **Sakthivelan M**, a Computer Science Engineering graduate passionate
 
 <!-- =============== ACTIVITY GRAPH =============== -->
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakthivelan0503&theme=tokyo-night&bg_color=0D1117&color=70A5FD&line=7B2FF7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 <!-- =============== TROPHIES =============== -->
 
@@ -218,15 +209,7 @@ Nandha College of Technology, Erode, Tamil Nadu
 
 <!-- =============== CONTRIBUTION SNAKE =============== -->
 
-## 🐍 My Contribution Journey
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sakthivelan0503/Sakthivelan0503/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
 
 <!-- =============== CONNECT =============== -->
 
