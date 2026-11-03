@@ -162,16 +162,6 @@ Hello! I'm **Sakthivelan M**, a Computer Science Engineering graduate passionate
 
 <!-- =============== TROPHIES =============== -->
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sakthivelan0503&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
-
-</div>
-
----
-
 <!-- =============== EDUCATION =============== -->
 
 ## 🎓 Education
