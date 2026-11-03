@@ -143,16 +143,6 @@ I'm **Sakthivelan M**, a Computer Science Engineering graduate passionate about 
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakthivelan0503&bg_color=0D1117&color=70A5FD&line=7B2FF7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 | Achievement | Details |
